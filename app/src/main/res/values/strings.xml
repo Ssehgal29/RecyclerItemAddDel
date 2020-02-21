@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">RecyclerAddDelete</string>
+    <string name="prod_name">Product Name : </string>
+    <string name="prod_price">Product Size : </string>
+    <string name="default_value">Default</string>
+    <string name="add_prod">Add Product</string>
+    <string name="enter_prod_name">Enter Product Name</string>
+    <string name="enter_prod_price">Enter Product Price</string>
+
+</resources>
